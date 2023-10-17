@@ -1,0 +1,268 @@
+#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
+#EXTINF:-1,VIP Premiere
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+#EXTINF:-1,VIP Megahit
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+#EXTINF:-1,VIP Comedy
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+#EXTINF:-1,VIP Serial
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+#EXTINF:-1,TV1000 HD
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
+#EXTINF:-1,TV1000 Action HD
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+#EXTINF:-1,TV1000 Русское кино Int
+#EXTGRP:Кино
+http://74.102.118.117:8812/udp/127.0.0.1:5311
+#EXTINF:-1,TV1000 HD
+#EXTGRP:Кино
+http://dmitry-tv.ml/hls/CH_TV1000HD.m3u8
+#EXTINF:-1,TV1000 Русское кино HD
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
+#EXTINF:-1,Киносвидание
+#EXTGRP:Кино
+http://31.173.178.110:8004/play/a08r/index.m3u8
+#EXTINF:-1,Киносвидание HD
+#EXTGRP:Кино
+http://193.33.88.172:8080/kinosvidanie/index.m3u8
+#EXTINF:-1,Cinema
+#EXTGRP:Кино
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:-1,Победа
+#EXTGRP:Кино
+https://sc.id-tv.kz/Pobeda_34_35.m3u8
+#EXTINF:-1,Amedia Hit HD
+#EXTGRP:Кино
+https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1,Millenium TV HD
+#EXTGRP:Кино
+http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
+#EXTINF:-1,Ужастик
+#EXTGRP:Кино
+https://autopilot.catcast.tv/content/38896/index.m3u8
+#EXTINF:-1,ПРЕМЬЕРА
+#EXTGRP:Кино
+https://autopilot.catcast.tv/content/39161/index.m3u8
+#EXTINF:-1,Akudji HD
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1,РОДНОЕ КИНО
+#EXTGRP:Кино
+https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
+#EXTINF:-1,Дом Кино
+#EXTGRP:Кино
+http://langamepp.com/chtst/DB613B4464359D34B6527906B338667AE9500A755605E1E40282C7D60FE8DCAA63B18694DA
+#EXTINF:-1,КИНОТВ
+#EXTGRP:Кино
+http://langamepp.com/chtst/8416F2816B1A3511BBEF6B950F40E742B627C3B0592A49C1013FD345B290599306C640
+#EXTINF:-1,Любимое кино
+#EXTGRP:Кино
+http://langamepp.com/chtst/BD7164288B993A4788A5DC97E5C3D9E68F405519B9A94697337452475413613601A1DAF83E498097307561475B
+#EXTINF:-1,МУЖСКОЕ КИНО
+#EXTGRP:Кино
+http://langamepp.com/chtst/C4159DCBE51026F6B36D761114F5F4D2F624ACFAD7205A260FBCF5C1A22475027EC5231B50C09C260BBDCBC1AA
+#EXTINF:-1,Настоящее Страшное Телевидение
+#EXTGRP:Кино
+http://langamepp.com/chtst/6658FAF1F1343879DA1410BFD7E9A69C5469CBC0C30444A967C4A06E5638244CD889752078E48DA96FC5916E5538264CD68972214CE486A96FC5926F62391D4CD388482149E48CA96FC4AD6F6F3913
+#EXTINF:-1,Русский Роман
+#EXTGRP:Кино
+http://langamepp.com/chtst/1865CD283B9B12257ABBE7410B45079E2A54FC1909AB6EF4FA6A64908A94864EA2B575F8824A92F5C46B5B91BB95BA
+#EXTINF:-1,FLUX HD
+#EXTGRP:Кино
+http://live.fluxhd.ru/FLUX_720P/video.m3u8?token=iptv.org.ua
+#EXTINF:-1,NorMax
+#EXTGRP:Кино
+https://v2.catcast.tv/content/40660/index.m3u8
+#EXTINF:-1,Киноклуб
+#EXTGRP:Кино
+http://autopilot.catcast.tv/content/39005/index.m3u8
+#EXTINF:-1,Кинолюкс
+#EXTGRP:Кино
+http://v2.catcast.tv/content/38821/index.m3u8
+#EXTINF:-1,VP Большое кино
+#EXTGRP:Кино
+http://sergiymak.catcast.tv/content/37388/index.m3u8
+#EXTINF:-1,VP Индийское Кино
+#EXTGRP:Кино
+http://sergiymak.catcast.tv/content/37353/index.m3u8
+#EXTINF:-1,Фантастика Sci-Fi
+#EXTGRP:Кино
+https://autopilot.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1,Fantastica Scifi
+#EXTGRP:Кино
+https://v2.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1,AVD TV
+#EXTGRP:Кино
+https://autopilot.catcast.tv/content/40791/index.m3u8
+#EXTINF:-1,КИНОУЖАС
+#EXTGRP:Кино
+https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8
+#EXTINF:-1,Память SSSR
+#EXTGRP:Кино
+https://autopilot.catcast.tv/content/38821/index.m3u8
+#EXTINF:-1,Все включено
+#EXTGRP:Кино
+https://autopilot.catcast.tv/content/39161/index.m3u8
+#EXTINF:-1,Все включено r
+#EXTGRP:Кино
+https://v2.catcast.tv/content/39161/index.m3u8
+#EXTINF:-1,Ultra HD Cinema HD
+#EXTGRP:Кино
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8
+#EXTINF:-1,КИНОПРЕМЬЕРА
+#EXTGRP:Кино
+http://193.33.88.172/premiera/tracks-v1a1/mono.m3u8
+#EXTINF:-1,КИНОХИТ
+#EXTGRP:Кино
+http://78.58.133.179:28000/play/a075/index.m3u8
+#EXTINF:-1,КИНОМИКС HD
+#EXTGRP:Кино
+http://193.33.88.172:8080/kinomix/index.m3u8
+#EXTINF:-1,КИНОСЕМЬЯ HD
+#EXTGRP:Кино
+http://193.33.88.172:8080/kinosemya/index.m3u8
+#EXTINF:-1,КОМЕДИЯ TV
+#EXTGRP:Кино
+http://78.58.133.179:28000/play/a203/index.m3u8
+#EXTINF:-1,КИНОКОМЕДИЯ HD
+#EXTGRP:Кино
+http://193.33.88.172:8080/komediya/index.m3u8
+#EXTINF:-1,Иллюзион+
+#EXTGRP:Кино
+https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
+#EXTINF:-1,Кинопоказ HD
+#EXTGRP:Кино
+http://193.33.88.172:8080/kinopokaz/index.m3u8
+#EXTINF:-1,МУЖСКОЕ КИНО HD
+#EXTGRP:Кино
+http://193.33.88.172:8080/muzhskoe-kino_hd/index.m3u8
+#EXTINF:-1,КИНОТВ HD
+#EXTGRP:Кино
+http://193.33.88.172/kino_tv_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,КИНОСЕРИЯ
+#EXTGRP:Кино
+http://193.33.88.172/mnogo-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Backustv HD
+#EXTGRP:Кино
+http://stream.backustv.ru/live/btv/index.m3u8?token=iptv.org.ua
+#EXTINF:-1,Backustv Страшное HD
+#EXTGRP:Кино
+http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1,Pro100 TV
+#EXTGRP:Кино
+http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
+#EXTINF:-1,TV XXI
+#EXTGRP:Кино
+http://178.163.37.161:4022/udp/234.0.0.187:2000
+#EXTINF:-1,Киносат
+http://193.33.88.172:8080/kinosat/index.m3u8
+#EXTINF:-1,Ностальгия
+#EXTGRP:Кино
+http://193.33.88.172:8080/nostalgia/index.m3u8
+#EXTINF:-1,КИНО 24
+#EXTGRP:Кино
+http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1,Kino Watch-СВЕЖАКИ
+#EXTGRP:Кино
+https://ed-nl-01.mycdn.video/fresh/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Уже видел
+#EXTGRP:Кино
+https://ed-nl-01.mycdn.video/hit/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ДОКУ
+#EXTGRP:Кино
+https://ed-nl-01.mycdn.video/docu/tracks-v1a1/mono.m3u8
+#EXTINF:-1,A1 HD
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
+#EXTINF:-1,A2
+#EXTGRP:Кино
+http://178.163.37.161:4022/udp/234.0.0.184:2000
+#EXTINF:-1,FilmBox
+#EXTGRP:Кино
+http://94.230.240.17:8080/film_box/index.m3u8
+#EXTINF:-1,BLACK Arthouse
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
+#EXTINF:-1,SCI-FI
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
+#EXTINF:-1,Fox HD
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
+#EXTINF:-1,.red Russia
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
+#EXTINF:-1,FOX Life hd
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
+#EXTINF:-1,FOX ABAZA TV
+#EXTGRP:Кино
+http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
+#EXTINF:-1,Дом Кино Премиум
+#EXTGRP:Кино
+https://sc.id-tv.kz/domkino_hd.m3u8
+#EXTINF:-1,Дом Кино
+#EXTGRP:Кино
+https://sc.id-tv.kz:443/DomKino_36_37.m3u8
+#EXTINF:-1,Русский иллюзион
+#EXTGRP:Кино
+https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
+#EXTINF:-1,Русский бестселлер
+#EXTGRP:Кино
+http://193.33.88.172:8080/rus-bestseller/index.m3u8
+#EXTINF:-1,Русский детектив
+#EXTGRP:Кино
+http://193.33.88.172:8080/rus-detective/index.m3u8
+#EXTINF:-1,Русский роман HD
+#EXTGRP:Кино
+http://193.33.88.172:8080/russki_roman_hd/index.m3u8
+#EXTINF:-1,Твоё ТВ HD
+#EXTGRP:Кино
+http://stream-norst.cf:8080/tvoetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Мосфильм Золотая Коллекция
+#EXTGRP:Кино
+http://97c7f0af.rossteleccom.net/iptv/VPL7BGBCQL8CMU/6392/index.m3u8?token=iptv.org.ua
+#EXTINF:-1,Мир Сериала
+#EXTGRP:Кино
+http://31.173.178.110:8004/play/a06j/index.m3u8
+#EXTINF:-1,ДОРАМА HD
+#EXTGRP:Кино
+https://sc.id-tv.kz:443/dorama_hd_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4719.png",Premiere HD
+#EXTGRP:Кино
+http://195.154.242.229/Premiere_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4720.png",Premium HD
+#EXTGRP:Кино
+http://195.154.242.229/Premium_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4721.png",РуКино HD
+#EXTGRP:Кино
+http://195.154.242.229/RuKino_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4722.png",Victory HD
+#EXTGRP:Кино
+http://195.154.242.229/Victory_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4723.png",Paradox HD
+#EXTGRP:Кино
+http://195.154.242.229/Paradox_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4724.png",Thriller HD
+#EXTGRP:Кино
+http://195.154.242.229/Thriller_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4725.png",Paradise HD
+#EXTGRP:Кино
+http://195.154.242.229/Paradise_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4727.png",USSR
+#EXTGRP:Кино
+http://195.154.242.229/USSR_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1 tvg-logo="https://ic.wampi.ru/2021/07/09/VHS-HD.png",VHS HD
+#EXTGRP:Кино
+http://195.154.242.229/VHS_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4726.png",Serial HD
+#EXTGRP:Кино
+http://195.154.242.229/Serial_HD/video.m3u8?token=telegram-premieregroup
